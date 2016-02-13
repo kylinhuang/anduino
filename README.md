@@ -1,5 +1,6 @@
-android 通过蓝牙控制 anduino蓝牙小车 
-这个属于anduino入门级demo
+anduinoCar － android 通过蓝牙控制 anduino蓝牙小车 
+    这个属于anduino入门级demo
+
 
 一些基础教程 建议参考 极客学院 教程
 
